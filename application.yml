@@ -1,5 +1,4 @@
 ---
-spring
- config
-  value
-   6
+spring:
+ config:
+  value:6
