@@ -1,8 +1,5 @@
 ---
-spring:
- config:
-  value: 6
 eureka:
  client:
   serviceUrl:
-   defaultZone: http://localhost:8010/eureka
+   defaultZone: http://localhost:8010/eureka/
